@@ -72,10 +72,3 @@ Checked against the PyEphem library: within **0.3°**, and the 25° on/off decis
 
 **LED chain order:** Mercury → Venus → Mars → Jupiter → Saturn → Uranus → Neptune → Pluto → Moon
 
-## Status
-
-- [x] Planet maths verified on an ESP32 dev board + NEO-7M GPS
-- [x] Breadboard test: LEDs, OLED, LEDs on 3.3 V
-- [x] Schematic and PCB layout, 0 ERC errors, PCB ordered at AISLER
-- [ ] Assembly and bring-up
-- [ ] Firmware on the final ESP32-C3 pin map
