@@ -4,7 +4,7 @@ Battery-powered board that shows which planets are in your sky right now. It get
 
 ![Planet Locator PCB](Image.png)
 
-📄 Full project write-up: [Docs/Planet_Locator.pdf](Docs/Planet_Locator.pdf)
+📄 Full project write-up: [Docs/Planet_Locator.pdf](Docs/Planet Locator.pdf)
 
 ## Specs
 
